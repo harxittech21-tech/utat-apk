@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">U.T.A.I</string>
+    <string name="title_activity_main">U.T.A.I</string>
+    <string name="package_name">in.utaekwondopro.app</string>
+    <string name="custom_url_scheme">in.utaekwondopro.app</string>
+</resources>

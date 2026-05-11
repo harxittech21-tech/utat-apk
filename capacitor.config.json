@@ -1,0 +1,13 @@
+{
+  "appId": "in.utaekwondopro.app",
+  "appName": "U.T.A.I",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "cleartext": true,
+    "allowNavigation": [
+      "utaekwondopro.in",
+      "*.utaekwondopro.in"
+    ]
+  }
+}
